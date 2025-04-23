@@ -1,0 +1,16 @@
+{
+  "name": "task-manager-api",
+  "version": "1.0.0",
+  "description": "A simple Task Manager API built with Express and Mongoose to manage tasks in a MongoDB collection.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.9",
+    "dotenv": "^8.2.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
